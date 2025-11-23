@@ -1,7 +1,11 @@
 [
-  { "text": "सुबह की वॉक", "note": "कम से कम 20 मिनट", "date": "" },
-  { "text": "स्टडी / पढ़ाई", "note": "1 घंटा", "date": "" },
-  { "text": "जिम / एक्सरसाइज़", "note": "30 मिनट वर्कआउट", "date": "" },
-  { "text": "डेली प्लान चेक", "note": "टू-डू अपडेट करें", "date": "" },
-  { "text": "पानी पीना", "note": "3 लीटर", "date": "" }
+  { "text": "wakeup 05 am", "note": "", "date": "" },
+  { "text": "maditation 10 minutes", "note": "", "date": "" },
+  { "text": "Reading book 20 minutes", "note": "", "date": "" },
+  { "text": "guidance app update", "note": "", "date": "" },
+  { "text": "procastination", "note": "", "date": "" },
+{ "text": "dual handwriting excercise", "note": "", "date": "" },
+{ "text": "handwriting excercise", "note": "", "date": "" },
+{ "text": "voice exercise", "note": "", "date": "" },
+{ "text": "online video study", "note": "", "date": "" }
 ]
